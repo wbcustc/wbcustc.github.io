@@ -1,12 +1,12 @@
 # https://github.com/jekyll/minima
 markdown: GFM
 theme: minima
-title: 'rm -rf /*'
+title: "rm -rf /*"
 author:
   name: Voidbalance
   email: me@voidbalance.com
 
-description: Carpe diem
+description: "Carpe diem"
 
 plugins:
   - jekyll-feed
