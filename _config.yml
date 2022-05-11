@@ -10,10 +10,6 @@ description: >
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-show_excerpts: true
-header_pages:
-  - about.md
-
 
 minima:
   skin: solarized
