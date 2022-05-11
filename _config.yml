@@ -1,2 +1,7 @@
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-title: Voidbalance Blog
+# https://github.com/niklasbuschmann/contrast
+remote_theme: niklasbuschmann/contrast@v2.11
+plugins:
+  - jekyll-remote-theme
+title: 'rm -rf /*'
+author: Voidbalance
+
