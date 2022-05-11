@@ -1,5 +1,20 @@
 # https://github.com/jekyll/minima
+markdown: GFM
 theme: minima
 title: 'rm -rf /*'
-author: Voidbalance
+author:
+  name: Voidbalance
+  email: me@voidbalance.com
+description: >
+  Carpe diem
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+show_excerpts: true
+header_pages:
+  - about.md
 
+
+minima:
+  skin: solarized
+  date_format: "%b %-d, %Y"
