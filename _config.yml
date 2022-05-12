@@ -6,9 +6,8 @@ plugins:
  - jekyll-seo-tag
 
 title: "rm -rf /*"
-author:
-  name: Voidbalance
-  email: me@voidbalance.com
+author: Voidbalance
+email: me@voidbalance.com
 description: "Carpe diem"
 
 show_excerpts: false
